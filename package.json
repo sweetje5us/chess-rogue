@@ -1,0 +1,26 @@
+{
+  "name": "chess-rogue",
+  "version": "1.0.0",
+  "description": "Chess Rogue - A chess roguelike game",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build completed'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chess",
+    "roguelike",
+    "game",
+    "mobile"
+  ],
+  "author": "Chess Rogue Team",
+  "license": "ISC",
+  "devDependencies": {
+    "@capacitor/android": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0"
+  },
+  "dependencies": {
+    "cordova-plugin-medievaldash-ad": "file:adPlugin"
+  }
+}

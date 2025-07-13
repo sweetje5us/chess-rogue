@@ -1,0 +1,27 @@
+{
+    "name": "cordova-plugin-medievaldash-ad",
+    "version": "1.0.0",
+    "description": "VK Ad SDK Plugin for MedievalDash",
+    "cordova": {
+        "id": "cordova-plugin-medievaldash-ad",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "cordova",
+        "ad",
+        "vk",
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "engines": {
+        "cordovaDependencies": {
+            "1.0.0": {
+                "cordova-android": ">=6.0.0"
+            }
+        }
+    },
+    "author": "MedievalDash Team",
+    "license": "Apache 2.0"
+} 
